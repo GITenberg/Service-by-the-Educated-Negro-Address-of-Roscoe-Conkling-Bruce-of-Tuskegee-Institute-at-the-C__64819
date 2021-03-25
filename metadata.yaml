@@ -1,11 +1,16 @@
 _repo: Service-by-the-Educated-Negro-Address-of-Roscoe-Conkling-Bruce-of-Tuskegee-Institute-at-the-C__64819
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64819-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruce, Roscoe Conkling
     gutenberg_agent_id: '53068'
     url: http://www.gutenberg.org/2009/agents/53068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64819#Service-by-the-Educated-Negro-Address-of-Roscoe-Conkling-Bruce-of-Tuskegee-Institute-at-the-C_
 gutenberg_issued: '2021-03-14'
 gutenberg_type: Text
 identifiers:
